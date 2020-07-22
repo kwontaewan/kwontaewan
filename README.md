@@ -10,7 +10,7 @@
 ![Gunter's github stats](https://github-readme-stats.vercel.app/api?username=kwontaewan&show_icons=true)
 
 #### Link
-[E-mail](jang.wangsu@gmail.com) 
+[E-mail](gunter92@icloud.com) 
 [LinkedIn](https://www.linkedin.com/in/tae-wan-kwon-a3a792145/)
 [Simple Resume](http://gunterkwon.info/)
 
