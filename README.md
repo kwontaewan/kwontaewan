@@ -1,4 +1,12 @@
-### Hi there 👋
+### iOS Developer
+#### `음악`,`여행`을 사랑하는 개발자입니다 :)
+
+![Gunter's github stats](https://github-readme-stats.vercel.app/api?username=kwontaewan&show_icons=true)
+
+#### Link
+[E-mail](jang.wangsu@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/tae-wan-kwon-a3a792145/)
+[Simple Resume](http://gunterkwon.info/)
 
 <!--
 **kwontaewan/kwontaewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
