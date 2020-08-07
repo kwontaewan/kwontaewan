@@ -2,6 +2,7 @@
 #### `음악`,`여행`을 사랑하는 개발자입니다 :)
 
 ![Gunter's github stats](https://github-readme-stats.vercel.app/api?username=kwontaewan&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwontaewan&layout=compact)
 
 #### Link
 [![Tech Blog Badge](http://img.shields.io/badge/-Resume%20-black?style=flat-square&logo=github&link=http://gunterkwon.info/)](http://gunterkwon.info/) 
